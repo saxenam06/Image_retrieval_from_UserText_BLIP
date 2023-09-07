@@ -1,16 +1,16 @@
 # Image_search_UserText
-Image Search on Large Driving Perception dataset using User Input Text
+Image Search on Large Driving Perception dataset using an User Input Text
 
 This repository consists of following two Jupyter notebooks: 
 
 1. Create_Embeddings_fromImageDataset.ipynb
     - Creates Vector Embeddings using the Images from the Large Autonomous driving Perception Dataset- ONE MILLION SCENES:  [ONCE Dataset](https://once-for-auto-driving.github.io/index.html). 
     - Embeddings are created using [BLIP](https://github.com/salesforce/BLIP/blob/main/demo.ipynb).
-3. Search_ImageEmbeddings_fromUserText.ipynb
+2. Search_ImageEmbeddings_fromUserText.ipynb
      - Search the Images semantically similar to the Input User Text leveraging the Vector embeddings created in Step 1.
      - Search or Image-Text Matching is also done using [BLIP](https://github.com/salesforce/BLIP/blob/main/demo.ipynb).
      -  Results for an example user Text "a car driving on an intersection is given in the notebook"
-
+3. Pyspark is used to read the large Image dataset in a Spark Dataframe and then perform Distributed Inferece (Calculation of Embeddings and Image-Text Matching using the Pretrained model).
 
 ### Citation
 <pre>
