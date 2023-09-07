@@ -14,7 +14,8 @@ This repository consists of following two Jupyter notebooks:
 
 3. Pyspark is used to read the large Image dataset in a Spark Dataframe and then perform Distributed Inferece (Calculation of Embeddings and Image-Text Matching Scores using the Pretrained model).
 
-### Citation
+Following Datasets and Models were used in this work.
+### References
 <pre>
 @article{mao2021one,
   title={One Million Scenes for Autonomous Driving: ONCE Dataset},
