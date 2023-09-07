@@ -11,10 +11,10 @@ This repository consists of following two Jupyter notebooks:
      - Search or Image-Text Matching is also done using [BLIP](https://github.com/salesforce/BLIP/blob/main/demo.ipynb).
      - Top 3 images matching the example user Text _"a car driving on an intersection"_ are given in the notebook and are shown below. 
         ![image](https://github.com/saxenam06/Image_search_UserText/assets/83720464/a2749738-bf75-4bdc-8896-ce1907884849)
-       Another example with user text _"a car driving on a highway"_ is shown below. It retrieves images semantically similar to the highway.
-       ![image](https://github.com/saxenam06/Image_search_UserText_BLIP/assets/83720464/506fa890-a027-4af5-bf0d-5cda26d7f483)
 
+       Another example with user text _"a car driving on a highway"_ is shown below. It retrieves images semantically similar to the highway.
         ![image](https://github.com/saxenam06/Image_search_UserText_BLIP/assets/83720464/ba043833-1f28-4f8c-9902-e657374afab4)
+     
      You can try More!!
 3. Pyspark is used to read the large Image dataset in a Spark Dataframe and then perform Distributed Inferece (Calculation of Embeddings and Image-Text Matching Scores using the Pretrained model).
 
