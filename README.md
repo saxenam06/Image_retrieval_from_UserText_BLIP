@@ -16,9 +16,7 @@ This repository has following two Jupyter notebooks:
   author={Mao, Jiageng and Niu, Minzhe and Jiang, Chenhan and Liang, Hanxue and Liang, Xiaodan and Li, Yamin and Ye, Chaoqiang and Zhang, Wei and Li, Zhenguo and Yu, Jie and others},
   journal={NeurIPS},
   year={2021}
-}<pre>
-    
-<pre>   
+}
 @inproceedings{li2022blip,
       title={BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation}, 
       author={Junnan Li and Dongxu Li and Caiming Xiong and Steven Hoi},
