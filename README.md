@@ -19,7 +19,7 @@ This repository consists of following two Jupyter notebooks:
 
      
      You can try More!!
-3. Pyspark is used to read the large Image dataset in a Spark Dataframe and then perform Distributed Inferece (Calculation of Embeddings and Image-Text Matching Scores using the Pretrained model).
+3. Pyspark is used to read the large Image dataset in a Spark Dataframe and then perform Distributed Inferece (Calculation of Vector Embeddings and Image-Text Matching Scores using the BLIP Pretrained model).
 
 Following Datasets and Models were used in this work.
 ### References
