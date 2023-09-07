@@ -1,4 +1,4 @@
-![image](https://github.com/saxenam06/Image_search_UserText/assets/83720464/d0bb012d-8fb7-499f-b5b9-c30fcc2cb33b)# Image_search_UserText
+# Image_search_UserText
 Image Search on Large Driving Perception dataset using an User Input Text
 
 This repository consists of following two Jupyter notebooks: 
