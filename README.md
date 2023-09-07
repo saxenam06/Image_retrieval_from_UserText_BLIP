@@ -12,7 +12,7 @@ This repository consists of following two Jupyter notebooks:
      - Top 3 images matching the example user Text "a car driving on an intersection" are given in the notebook and are shown below. 
         ![image](https://github.com/saxenam06/Image_search_UserText/assets/83720464/a2749738-bf75-4bdc-8896-ce1907884849)
 
-3. Pyspark is used to read the large Image dataset in a Spark Dataframe and then perform Distributed Inferece (Calculation of Embeddings and Image-Text Matching using the Pretrained model).
+3. Pyspark is used to read the large Image dataset in a Spark Dataframe and then perform Distributed Inferece (Calculation of Embeddings and Image-Text Matching Scores using the Pretrained model).
 
 ### Citation
 <pre>
