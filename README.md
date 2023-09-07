@@ -9,7 +9,7 @@ This repository consists of following two Jupyter notebooks:
 2. Search_ImageEmbeddings_fromUserText.ipynb
      - Search the Images semantically similar to the Input User Text leveraging the Vector embeddings created in Step 1.
      - Search or Image-Text Matching is also done using [BLIP](https://github.com/salesforce/BLIP/blob/main/demo.ipynb).
-     - Top 3 images matching the example user Text "a car driving on an intersection" are given in the notebook and are shown below. 
+     - Top 3 images matching the example user Text _"a car driving on an intersection"_ are given in the notebook and are shown below. 
         ![image](https://github.com/saxenam06/Image_search_UserText/assets/83720464/a2749738-bf75-4bdc-8896-ce1907884849)
 
 3. Pyspark is used to read the large Image dataset in a Spark Dataframe and then perform Distributed Inferece (Calculation of Embeddings and Image-Text Matching Scores using the Pretrained model).
