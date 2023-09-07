@@ -5,9 +5,9 @@ This repository consists of following two Jupyter notebooks:
 
 1. Create_Embeddings_fromImageDataset.ipynb
     - Creates Vector Embeddings using the Images from the Large Autonomous driving Perception Dataset- ONE MILLION SCENES:  [ONCE Dataset](https://once-for-auto-driving.github.io/index.html). 
-    - Embeddings are created using [BLIP](https://github.com/salesforce/BLIP/blob/main/demo.ipynb).
+    - Vector Embeddings are created using [BLIP](https://github.com/salesforce/BLIP/blob/main/demo.ipynb) and are stored for Step 2.
 2. Search_ImageEmbeddings_fromUserText.ipynb
-     - Search the Images semantically similar to the Input User Text leveraging the Vector embeddings created in Step 1.
+     - Search the Vector Embeddings corresponding to Images semantically similar to the Input User Text.
      - Search or Image-Text Matching is also done using [BLIP](https://github.com/salesforce/BLIP/blob/main/demo.ipynb).
      - Top 3 images matching the example user Text _"a car driving on an intersection"_ are given in the notebook and are shown below. 
         ![image](https://github.com/saxenam06/Image_search_UserText/assets/83720464/a2749738-bf75-4bdc-8896-ce1907884849)
