@@ -17,6 +17,7 @@ This repository has following two Jupyter notebooks:
   journal={NeurIPS},
   year={2021}
 }<pre>
+    
 <pre>   
 @inproceedings{li2022blip,
       title={BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation}, 
