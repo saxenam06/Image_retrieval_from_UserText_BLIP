@@ -9,17 +9,18 @@ This repository has following two Jupyter notebooks:
      Search the Images semantically similar to the User Text leveraging the Vector embeddings created in Step 1.
 
 
--References:
-- @article{mao2021one,
+### Citation
+<pre>
+@article{mao2021one,
   title={One Million Scenes for Autonomous Driving: ONCE Dataset},
   author={Mao, Jiageng and Niu, Minzhe and Jiang, Chenhan and Liang, Hanxue and Liang, Xiaodan and Li, Yamin and Ye, Chaoqiang and Zhang, Wei and Li, Zhenguo and Yu, Jie and others},
   journal={NeurIPS},
   year={2021}
-}
-   
-- @inproceedings{li2022blip,
+}<pre>
+<pre>   
+@inproceedings{li2022blip,
       title={BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation}, 
       author={Junnan Li and Dongxu Li and Caiming Xiong and Steven Hoi},
       year={2022},
       booktitle={ICML},
-}
+}<pre>
